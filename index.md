@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethical implications of AI](https://pdflink.to/kkccsci301/)
 
--   **Class:**  
--   **Grade:**
+-   **Class:** CSCI 301 - Survey of Scripting Languages  
+-   **Grade:** A
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Responsibility in Automated Software Testing](https://pdflink.to/kkccsci315/)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 315 - Data Structure Analysis
+-   **Grade:** A
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Dilemmas as a future Software Developer](https://pdflink.to/kkccsci325/)
 
--   **Class:** 
--   **Grade:**
+-   **Class:** CSCI 325 - Object-Oriented Programming
+-   **Grade:** A
 
 ---
 
