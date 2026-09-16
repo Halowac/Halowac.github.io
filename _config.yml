@@ -6,10 +6,10 @@ description: > # your text below (remove <br /> elements if you don't need line 
   CSCI 496: Senior Portfolio<br />
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Computer-Science (class of 2028)
-  <br /><br />
-  <a href="https://pdflink.to/kkccv/">View My Resume</a>
-  <br /><br />
-  <a href="https://linkedin.com/in/kkccin">View My LinkedIn Profile</a>
+  <br />
+  <a href="pdflink.to/kkccv/">View My Resume</a>
+  <br />
+  <a href="linkedin.com/in/kkccin">View My LinkedIn Profile</a>
 repository: "Halowac/Halowac.github.io"
 github_username:  Halowac # update with your username
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
