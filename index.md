@@ -51,16 +51,16 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Classes & Inheritance](https://www.image2url.com/r2/default/presentations/1789666432111-c2d1c3c8-b1d4-4de2-8f26-310049f7db15.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 217 - Practical Programming and Problem Solving
+- **Grade:** A
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Kingdom Calamity](https://www.image2url.com/r2/default/presentations/1789666606952-393281f0-116d-45b0-b356-b247d8c99278.pptx)
 
-- **Class:** 
-- **Grade:**
+- **Class:** CSCI 325 - Object-Oriented Programming
+- **Grade:** A
 
 ---
 
