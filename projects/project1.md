@@ -36,10 +36,10 @@ Since this is a command-line interface application, user interaction takes place
 
 Upon launching, the script sends an HTTP `GET` request to the Python Jobs URL and begins parsing the structured content of the job listings.
 
-![screenshot](../images/launch.png)
+![screenshot](../images/p1/launch.png)
 * **Fig 1.** The properties of each job offer are printed to the console in readable text format.
 
-![screenshot](../images/exception.png)
+![screenshot](../images/p1/exception.png)
 * **Fig 2.** If a network connection issue occurs or the server is unavailable, the script throws an exception from the `requests` library indicating the request failure.
 
 ---
