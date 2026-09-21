@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Python Job Board Web Scraper | CSCI 301](projects/project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail](images/thumbnail1.jpg)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
