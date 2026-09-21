@@ -17,9 +17,9 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [Kingdom Calamity | CSCI 325](projects/project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail](images/p3/launch.png)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
