@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:kkchowcarlos@student.csuniv.edu) with the subject line, GitHub Access.
 
 ---
-### [Python Job Board Web Scraper | CSCI 301](project1.md)
+### [Python Job Board Web Scraper | CSCI 301](projects/project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
