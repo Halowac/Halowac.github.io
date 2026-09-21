@@ -44,7 +44,7 @@ Upon launching, the script sends an HTTP `GET` request to the Python Jobs URL an
 
 ---
 
-## 3. Additional Considerations
+## Additional Considerations
 
 The script handles potential variations in the HTML structure of the target webpage, such as extra lines in the company name using string cleaning methods like `splitlines()` and `.lstrip()`.
 
