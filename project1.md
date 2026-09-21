@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-# Project 1 Title: Python Job Board Web Scraper
+# Python Job Board Web Scraper
 
 * **Class:** CSCI 301 - Survey of Scripting Languages
 * **Grade:** A
