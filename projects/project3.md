@@ -50,16 +50,16 @@ Reviews historical decisions and outcomes through an in-game log
 
 The interface displays both system state and decision points simultaneously, allowing the user to directly observe the impact of their actions on game progression.
 
-![screenshot](../images/launch2.png)  
+![screenshot](../images/p3/launch.png)  
 Fig 1. Main menu interface
 
-![screenshot](../images/gameplay2.png)  
+![screenshot](../images/p3/gameplay.png)  
 Fig 2. Gameplay screen showing event prompt, choices, and gamestate indicators
 
-![screenshot](../images/end2.png)  
+![screenshot](../images/p3/end.png)  
 Fig 3. Game outcome screen following win or loss condition
 
-![screenshot](../images/presentation2.jpg)  
+![screenshot](../images/p3/presentation.jpg)  
 Fig 4. Team presentation and demo of Kindgom Calamity
 
 [Back to Portfolio](../index.md)
