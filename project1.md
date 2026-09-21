@@ -2,7 +2,7 @@
 
 # Project 1 Title: Python Job Board Web Scraper
 
-* **Class:** CSCI 301
+* **Class:** CSCI 301 - Survey of Scripting Languages
 * **Grade:** A
 * **Language(s):** Python
 * **Source Code Repository:** https://github.com/Halowac/CSCI_301-Webscraper *(Please email me to request access.)*
