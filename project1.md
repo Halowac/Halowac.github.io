@@ -1,48 +1,51 @@
 [Back to Portfolio](./)
 
-Project 1 Title
-===============
+# Project 1 Title: Python Job Board Web Scraper
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+* **Class:** CSCI 301
+* **Grade:** A
+* **Language(s):** Python
+* **Source Code Repository:** https://github.com/Halowac/CSCI_301-Webscraper *(Please email me to request access.)*
 
-## Project description
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Project Description
 
-## How to compile and run the program
+This project is a web scraping tool developed in Python that automates the extraction of recent job postings published on the official Python website (`https://www.python.org/jobs`). The script parses the HTML code of the page using the BeautifulSoup library to extract key information from each job listing, including the job title, hiring company, geographic location, posting date, category, and required job type. The collected data is processed and displayed in the terminal.
 
-How to compile (if applicable) and run the project.
+---
 
-```bash
-cd ./project
-python setup.py
-```
+## How to Run the Program
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+Since this programming language does not require compilation, you can run the program directly from the terminal by following these steps:
+
+1. Ensure you have Python installed and the following dependencies installed (`requests` and `beautifulsoup4`):
+   ```bash
+   pip install requests beautifulsoup4
+   ```
+2. Navigate to the directory where the script is located and execute it with the following command:
+   ```bash
+   python CSCI_301-Webscraper.py
+   ```
+
+---
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+Since this is a command-line interface application, user interaction takes place entirely through the terminal. The program processes the webpage and outputs a numbered list containing the details of each available vacancy.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Upon launching, the script sends an HTTP `GET` request to the Python Jobs URL and begins parsing the structured content of the job listings.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](launch.png)
+* **Fig 1.** The properties of each job offer are printed to the console in readable text format.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](exception.png)
+* **Fig 2.** If a network connection issue occurs or the server is unavailable, the script throws an exception from the `requests` library indicating the request failure.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+---
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The script handles potential variations in the HTML structure of the target webpage, such as extra lines in the company name using string cleaning methods like `splitlines()` and `.lstrip()`.
 
 [Back to Portfolio](./)
