@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+[Back to Portfolio](././)
 
 # Python Job Board Web Scraper
 
@@ -48,4 +48,4 @@ Upon launching, the script sends an HTTP `GET` request to the Python Jobs URL an
 
 The script handles potential variations in the HTML structure of the target webpage, such as extra lines in the company name using string cleaning methods like `splitlines()` and `.lstrip()`.
 
-[Back to Portfolio](./)
+[Back to Portfolio](././)
