@@ -12,9 +12,9 @@ Programming Projects
 ![Project 1 Thumbnail](images/thumbnail1.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Minimum Overlap | CSCI 315](projects/project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail](images/thumbnail2.jpg)
 
 ---
 ### [Kingdom Calamity | CSCI 325](projects/project3.md)
@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [UDP Chat Application (Buddy Chat) | CSCI 332](projects/project4.md)
 
-![Project 4 Thumbnail Name](images/thumbnail4.jpg)
+![Project 4 Thumbnail](images/thumbnail4.jpg)
 
 ---
 
