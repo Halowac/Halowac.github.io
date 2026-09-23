@@ -38,11 +38,11 @@ Since this project is developed in C++, it requires compilation before it can be
 
 Since this is a command-line interface application, all user interaction takes place directly within the terminal. The program first prompts for network configuration parameters before entering the main messaging loop.
 
-![screenshot](../images/p4/incoming.png)
-* **Fig. 1** Incoming messages received over the network are printed to the console with the prefix `Buddy says:`.
-
 ![screenshot](..images/p4/sending.png)
-* **Fig. 2** The program maintains a constant on-screen prompt displaying `Your message:` to indicate that it is ready to send the next string.
+* **Fig. 1** The program maintains a constant on-screen prompt displaying `Your message:` to indicate that it is ready to send the next string.
+
+![screenshot](../images/p4/incoming.png)
+* **Fig. 2** Incoming messages received over the network are printed to the console with the prefix `Buddy says:`
 
 ---
 
