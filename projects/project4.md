@@ -48,6 +48,6 @@ Since this is a command-line interface application, all user interaction takes p
 
 ## Additional Considerations
 
-* **Thread Synchronization (Mutex):** Because both the main thread and the server thread access the same message storage vector, the program utilizes mutual exclusion locks. This ensures that memory is read and written safely, preventing race conditions.
+* **Thread Synchronization:** Because both the main thread and the server thread access the same message storage vector, the program utilizes mutual exclusion locks. This ensures that memory is read and written safely, preventing race conditions.
 
 [Back to Portfolio](../index.md)
