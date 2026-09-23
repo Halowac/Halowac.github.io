@@ -20,10 +20,12 @@ This project is a web scraping tool developed in Python that automates the extra
 Since this programming language does not require compilation, you can run the program directly from the terminal by following these steps:
 
 1. Ensure you have Python installed and the following dependencies installed (`requests` and `beautifulsoup4`):
+   
    ```bash
    pip install requests beautifulsoup4
    ```
-2. Navigate to the directory where the script is located and execute it with the following command:
+3. Navigate to the directory where the script is located and execute it with the following command:
+   
    ```bash
    python CSCI_301-Webscraper.py
    ```
