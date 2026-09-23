@@ -2,7 +2,7 @@
 
 # Minimum Overlap
 
-* **Class:** Data Structures Analysis
+* **Class:** CSCI 315 - Data Structures Analysis
 * **Grade:** A
 * **Language(s):** C++
 * **Source Code Repository:** [Minimum Overlap](https://github.com/Halowac/Minimum_Overlap) *(Please email me to request access.)*
