@@ -5,7 +5,7 @@
 * **Class:** CSCI 301 - Survey of Scripting Languages
 * **Grade:** A
 * **Language(s):** Python
-* **Source Code Repository:** [CSCI_301-Webscraper](https://github.com/Halowac/CSCI_301-Webscraper) *(Please email me to request access.)*
+* **Source Code Repository:** [Python Webscraper](https://github.com/Halowac/CSCI_301-Webscraper) *(Please email me to request access.)*
 
 ---
 
