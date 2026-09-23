@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail](images/p3/launch.png)
 
 ---
-### [UDP Chat (Buddy Chat) | CSCI 332](projects/project4.md)
+### [UDP Chat Application (Buddy Chat) | CSCI 332](projects/project4.md)
 
 ![Project 4 Thumbnail Name](images/thumbnail4.jpg)
 
