@@ -17,7 +17,7 @@ This project is a peer-to-peer chat application developed in C++ that enables bi
 
 ## How to Run the Program
 
-Since this project is developed in C++, it requires compilation before it can be executed. You can compile and run the program from the terminal by following these steps:
+Since this project is developed in C++, it requires compilation before it can be executed. It is also exclusive to Linux or macOS environments. For Windows execution, using WSL is required. You can compile and run the program from the terminal by following these steps:
 
 1. Ensure you have a C++ compiler (such as `g++`) and the standard `POSIX` libraries installed on your system.
 2. Navigate to the directory where the source files are located and compile the program using the `buddy.cpp` file, making sure to link the thread library:
