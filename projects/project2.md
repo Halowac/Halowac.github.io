@@ -44,7 +44,7 @@ However, the project features a data visualization component. By processing the 
 * **Fig 1.** Terminal execution displaying the calculated minimum overlap for a given dataset.
 
 ![screenshot](../images/p2/plot.png)
-* **Fig 2.** Gnuplot visualization of the algorithm's runtime performance across different dataset sizes.
+* **Fig 2.** Gnuplot visualization of the algorithm's runtime performance using one dataset.
 
 ## Additional Considerations
 
